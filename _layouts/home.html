@@ -16,12 +16,12 @@ layout: default
       <ul>
         <li>Apoio à organização da ERAD/RS.</li>
         <li>Revisão do estatuto da CRAD/RS.
-          <p class="pt-3 lead"><a href="/docs/cradrs_estatuto-revisao-04abril2018.pdf" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>Estatuto da CRAD/RS</p>
+          <p class="pt-3 lead"><a href="/docs/cradrs_estatuto-revisao-04abril2018.pdf" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square"></i> Estatuto da CRAD/RS</a></p>
           <p class="pt-2 lead">{{ site.data.pagina-cradrs.estatuto.texto }}</p>
           <p class="lead font-italic">Revisões realizadas:</p>
           <ul>
             {% for revisao in site.data.pagina-cradrs.estatuto.revisoes %}
-              <li class="mb-1" style="list-style-type: none;"><a href="{{ revisao.link }}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square"></i></a> {{ revisao.desc }}</li>
+              <li class="mb-1" style="list-style-type: none;"><a href="{{ revisao.link }}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square"></i> {{ revisao.desc }}</a></li>
             {% endfor %}
           </ul>
         </li>
