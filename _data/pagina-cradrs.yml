@@ -3,6 +3,7 @@ sobre:
 
 estatuto:
   texto: "Conforme deliberado na ERAD 2003, o estatuto da CRAD/RS está em regime permanente de discussão. Sugestões de alteração no texto e outras contribuições devem ser enviadas ao Prof. Adenauer Yamin utilizando o email adenauer at inf.ufpel.edu.br. As alterações serão avaliadas e votadas nas Assembléia da CRAD/RS realizadas anualmente durante as ERADs."
+  estatuto-atual: docs\cradrs_estatuto-revisao-04abril2018.pdf
   revisoes:
     - desc: "Assembléia da CRAD/RS, ERAD 2013, 22/03/2013 - Inclusão da figura do Membro Honorário (vide Artigo 19, item f)"
       link: "docs/revisoes_estatuto/ataassembleia-da-crad-erad2013.pdf"
